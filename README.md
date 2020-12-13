@@ -18,5 +18,5 @@ The refactored webpage now allows the user to use multiple criteria to filter in
 
 ## Summary
 This upgrade allows the user to easily find UFO siting info relative to his interest or needs. One draw back however is that the filters are case and form sensitive, meaning if theuser does not use the exact case or form of date or state as in the data they will not recieve thier desired information.  I recommend:
-  1-Refactor filter criteria to be case insensitve 
-  2-Refactor filter criteria to accept various forms of date and state
+  1-Refactor filter criteria to be case insensitve and to accept various forms of date and state
+  2-Refactor the shape filter criteria to be a drop down list with available shapes 
