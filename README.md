@@ -13,7 +13,7 @@ Refactoring the previous code toallow for multiple filter criteria required an e
 
 ### Results
 
-The refactored webpage now allows the user to use multiple criteria to filter information on UFO sitings.  It also no longer requires them to clik a filter button, once they hit enter the information will fillter will be applied, meaning they can filter as one criteria at a time and continue to filter if the results are too broad. Illustrations are below ![alt text](https://github.com/alonzodority1/UFOs/static/images/filter-state.PNG "filter State")
+The refactored webpage now allows the user to use multiple criteria to filter information on UFO sitings.  It also no longer requires them to clik a filter button, once they hit enter the information will fillter will be applied, meaning they can filter as one criteria at a time and continue to filter if the results are too broad. Illustrations are below ![alt text](https://github.com/alonzodority1/UFOs/blob/main/Static/Images/filter-state.PNG "filter State")
 
 
 ## Summary
